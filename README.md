@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Easin Arafat
 #### Learning a web development
-![Learning a web development]([https://i.ibb.co/3rhjgvg/web-developer.png](https://i.ibb.co/zfXc5Mt/web-developer-1.png))
+![Learning a web development](https://i.ibb.co/zfXc5Mt/web-developer-1.png)
+
 
 My name is Easin Arafat, and I'm on an exciting journey of learning web development through the Programming Hero program. This experience is nothing short of transformative as I dive into the intricacies of creating dynamic and interactive websites.
 
@@ -18,6 +19,8 @@ Skills: REACT / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Easin2023)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/Easin2023)  
+
+
 
 
 
