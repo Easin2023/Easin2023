@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Easin Arafat
 #### Learning a web development
-![Learning a web development]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/3rhjgvg/web-developer.png))
-
+![Learning a web development](https://i.ibb.co/3rhjgvg/web-developer.png)
 
 My name is Easin Arafat, and I'm on an exciting journey of learning web development through the Programming Hero program. This experience is nothing short of transformative as I dive into the intricacies of creating dynamic and interactive websites.
 
