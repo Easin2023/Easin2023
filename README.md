@@ -1,26 +1,30 @@
-### Hi there 👋, I am Easin Arafat
-#### Learning a web development
-![Learning a web development]((https://i.ibb.co/PrJNz8D/Beige-Simple-Elegant-Personal-Linked-In-Banner.png))
+<h1 align="center">Hi 👋, I'm Easin Arafat</h1>
+<h3 align="center">MERN Stack Web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=easin2023&label=Profile%20views&color=0e75b6&style=flat" alt="easin2023" /> </p>
 
-My name is Easin Arafat, and I'm on an exciting journey of learning web development through the Programming Hero program. This experience is nothing short of transformative as I dive into the intricacies of creating dynamic and interactive websites.
+<p align="left"> <a href="https://twitter.com/easin_arafa" target="blank"><img src="https://img.shields.io/twitter/follow/easin_arafa?logo=twitter&style=for-the-badge" alt="easin_arafa" /></a> </p>
 
-The Programming Hero program is my guiding light in this endeavor, providing a structured path to master the art of web development. I'm delving into the world of HTML, CSS, JavaScript, and other essential web technologies, unlocking the power to design visually appealing and functional websites.
+- 🌱 I’m currently learning **Web Development Field.**
 
-Skills: REACT / JS / HTML / CSS
+- 💬 Ask me about **MERN Developer, ReactJS,Node.JS,Express.JS,Javascript,Tailwind,Mangodb**
 
-- 🔭 I’m currently working on With React 
-- 🌱 I’m currently learning Programming Hero 
-- 📫 How to reach me: Facebook 
+- 📫 How to reach me **mdeasinarafat016456@gmail.com**
 
+- 📄 Know about my experiences [https://rb.gy/pidtdh](https://rb.gy/pidtdh)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Easin2023)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100072451573313)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/easi_arafat_kan/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/easin_arafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="easin_arafa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/easinarafatwebdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/easinarafatwebdev/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/easi_arafat_khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/easi_arafat_khan/" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Easin2023)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/Easin2023)  
-
-
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Easin2023&theme=prussian" alt="GitHub Streak" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=easin2023&show_icons=true&locale=en&layout=compact" alt="easin2023" /></p>
 
 
