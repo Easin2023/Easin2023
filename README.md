@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/easin_arafa" target="blank"><img src="https://img.shields.io/twitter/follow/easin_arafa?logo=twitter&style=for-the-badge" alt="easin_arafa" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development Field.**
+- 🌱 I’m currently learning **React, Javascript, Node.js**
 
-- 💬 Ask me about **MERN Developer, ReactJS,Node.JS,Express.JS,Javascript,Tailwind,Mangodb**
+- 💬 Ask me about **ReactJS,Node.JS,Express.JS,Tailwind,Mangodb**
 
 - 📫 How to reach me **mdeasinarafat016456@gmail.com**
 
-- 📄 Know about my resume [https://rb.gy/pidtdh](https://rb.gy/pidtdh)
+- 📄 about my resume [https://rb.gy/pidtdh](https://rb.gy/pidtdh)
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
