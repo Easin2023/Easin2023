@@ -18,8 +18,6 @@
 - 💬 Ask me about **ReactJS,Node.JS,Express.JS,Tailwind,Mangodb**
 
 - 📫 How to reach me **mdeasinarafat016456@gmail.com**
-
-- 📄 about my resume [https://rb.gy/pidtdh](https://rb.gy/pidtdh)
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
