@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/easinarafatwebdev/" target="_blank">
-    <img src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67" alt="MasterHead">
+    <img src="https://i.ibb.co/7RWB5cV/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d.gif" alt="MasterHead">
 </a>
 <h1 align="center">Hi 👋, I'm Easin Arafat</h1>
 <h3 align="center">MERN Stack Web developer</h3>
